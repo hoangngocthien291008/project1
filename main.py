@@ -7,9 +7,3 @@ def isPrime(n):
    return True
 
 
-print("hello, world")
-num_to_check = 7
-if isPrime(num_to_check):
-   print(f"{num_to_check} is a prime number.")
-else:
-   print(f"{num_to_check} is not a prime number.")
